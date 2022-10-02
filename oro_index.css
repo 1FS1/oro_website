@@ -87,9 +87,9 @@ footer{
 	text-align:center;
 	text-decoration:none;
 	display:inline-block;
-	margin:4px 2px;
+	margin:auto;
 	cursor:pointer;
-	margin-top:100%;
+	/*margin-top:100%;
 	margin-bottom:100%;
 	/*--------------------------------------*/
 	padding: 16px 32px;
