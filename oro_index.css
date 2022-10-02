@@ -82,12 +82,15 @@ footer{
 /*button*/
 .button{
 	/*fixed the position of button in table*/
+	position:relative;
 	border:none;
 	text-align:center;
 	text-decoration:none;
 	display:inline-block;
 	margin:4px 2px;
 	cursor:pointer;
+	margin-top:100%;
+	margin-bottom:100%;
 	/*--------------------------------------*/
 	padding: 16px 32px;
 	font-size:16px;
