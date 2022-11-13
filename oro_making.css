@@ -1,0 +1,12 @@
+ul{
+	list-style:none;
+}
+.navbar{
+	border:1px solid black;
+	display:inline-block;
+	font-size:13px;
+}
+.navbar li{
+	position:relative;
+	
+}
